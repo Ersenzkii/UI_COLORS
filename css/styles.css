@@ -325,8 +325,18 @@ body{
 	color: #AF1310;
 }
 
+.l:hover{
+	outline: 5px solid #AF1310;
+	outline-offset: -5px;
+}
+
 .dark-red{
 	color: #FAADA7;
+}
+
+.d:hover{
+	outline: 5px solid #FAADA7;
+	outline-offset: -5px;
 }
 
 .light-pink{
